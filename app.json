@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "One",
+    "slug": "One",
+    "version": "1.0.0",
+    "updates":{
+      "fallbackToCacheTimeout":0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios":{
+"supportsTablet":true,
+"bundleIdentifier":"com.one",
+"buildNumber":"3"
+    },
+    "android":{
+      "package":"com.one"
+    }
+  }
+  
+}
